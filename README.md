@@ -2,7 +2,7 @@
 
 ![Logo](https://raw.githubusercontent.com/otto-de/lineup/master/doc/lineup_mini.png)
 
-Lineup is doing automated testing of webpage designs, eg. in continious delivery.
+Lineup is doing automated testing of webpage designs, eg. in continuous delivery.
 If you push new code to production, you can evaluate the design of your page compared to a defined base design and
 get an analysis about the difference of the designs:
 
